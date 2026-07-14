@@ -1,7 +1,5 @@
 # California-Housing-Model-
 Exploration, preprocessing and model training using California housing dataset
-# California-Housing-Model-
-Exploration, preprocessing and model training using California housing dataset
 # Predicting California Housing Prices with Regularized Regression
 
 
@@ -76,3 +74,7 @@ Linkedin: www.linkedin.com/in/victor-chukwuemeka-204738419
 NKEMUAKOLAM LOVETH CHIBUENYIM
 GitHub: https://github.com/Loveth-Chibuenyim
 linkedin: https://www.linkedin.com/in/loveth-nkemuakolam-b2709137a?
+
+OKPARA KAMSY SOPHIA
+GitHub: https://github.com/Sophiak499
+
