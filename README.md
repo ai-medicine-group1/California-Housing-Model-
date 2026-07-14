@@ -70,3 +70,6 @@ linkedin: www.linkedin.com/in/elechi-chinenye-freelancer
 ONWUKWE IHEANYI EMMANUEL
 GitHub: https://github.com/iheanyi-dev
 
+CHUKWUEMEKA VICTOR CHUKWUEMEKA
+Github: https://github.com/VCT2008-bot
+Linkedin: www.linkedin.com/in/victor-chukwuemeka-204738419
