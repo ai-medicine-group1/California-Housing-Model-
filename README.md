@@ -1,7 +1,5 @@
 # California-Housing-Model-
 Exploration, preprocessing and model training using California housing dataset
-# California-Housing-Model-
-Exploration, preprocessing and model training using California housing dataset
 # Predicting California Housing Prices with Regularized Regression
 
 
