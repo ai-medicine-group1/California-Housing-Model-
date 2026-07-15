@@ -78,3 +78,5 @@ linkedin: https://www.linkedin.com/in/loveth-nkemuakolam-b2709137a?
 OKPARA KAMSY SOPHIA
 GitHub: https://github.com/Sophiak499
 
+EJIKE DANIEL
+GitHub: https://github.com/dejike90-bit
