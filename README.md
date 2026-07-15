@@ -71,6 +71,7 @@ GitHub: https://github.com/iheanyi-dev
 CHUKWUEMEKA VICTOR CHUKWUEMEKA
 Github: https://github.com/VCT2008-bot
 Linkedin: www.linkedin.com/in/victor-chukwuemeka-204738419
+
 NKEMUAKOLAM LOVETH CHIBUENYIM
 GitHub: https://github.com/Loveth-Chibuenyim
 linkedin: https://www.linkedin.com/in/loveth-nkemuakolam-b2709137a?
@@ -78,5 +79,14 @@ linkedin: https://www.linkedin.com/in/loveth-nkemuakolam-b2709137a?
 OKPARA KAMSY SOPHIA
 GitHub: https://github.com/Sophiak499
 
+<<<<<<< HEAD
 EJIKE DANIEL
 GitHub: https://github.com/dejike90-bit
+=======
+CHINONSO EMMANUEL SAMUEL
+GitHub: https://github.com/emmanuelchinonsosam
+
+DAVIES CHINWENDU MIRACLE
+Github: https://github.com/gbvnurse
+
+>>>>>>> 2066ed8e5700647b1bcb149dd85fb25f9d47260f
